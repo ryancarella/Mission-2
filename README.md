@@ -2,6 +2,12 @@
 
 A static, accessible competitive pricing dashboard for a proposed Fairfield, Connecticut food truck. Includes competitor profiles, offer search and filters, interactive bar charts, a price position explorer, scenario presets, differences and percentages, strategic interpretations, and offer-level sources.
 
+Live dashboard: https://ryancarella.github.io/Mission-2/
+
+Repository: https://github.com/ryancarella/Mission-2
+
+GitHub Pages serves `main` at `/ (root)` with `.nojekyll`. The tracked root static files are identical to the files emitted into `dist/` by the production build.
+
 ## Run and build
 
 Requires Node.js 18 or newer. There are no package dependencies, paid services, API keys, backend, or database. Native JavaScript modules and CSS produce a small static site. Fonts use Google Fonts with local system fallbacks.
